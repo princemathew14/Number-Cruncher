@@ -1,0 +1,7 @@
+Report:
+-------
+Count: 4
+Sum: 110.0
+Average: 27.5
+Minimum: 10.0
+Maximum: 50.0

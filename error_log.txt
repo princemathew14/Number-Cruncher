@@ -1,0 +1,2 @@
+Line 2: Invalid number 'abc'
+Line 5: Invalid number 'xyz'
